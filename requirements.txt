@@ -1,0 +1,14 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Time-series
+statsmodels
+
+# Deep learning
+tensorflow>=2.12
+
+# Data
+yfinance
